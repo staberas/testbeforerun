@@ -7,8 +7,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\ExitReached.xnb</Output>
-      <Time>2010-03-04T17:41:30.5322893+02:00</Time>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\ExitReached.xnb</Output>
+      <Time>2010-03-04T23:18:34.3904+02:00</Time>
     </Item>
     <Item>
       <Source>Sounds\GemCollected.wma</Source>
@@ -16,8 +16,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\GemCollected.xnb</Output>
-      <Time>2010-03-04T17:41:30.5372893+02:00</Time>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\GemCollected.xnb</Output>
+      <Time>2010-03-04T23:18:34.3944+02:00</Time>
     </Item>
     <Item>
       <Source>Sounds\Music.wma</Source>
@@ -25,9 +25,9 @@
       <Importer>WmaImporter</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\Music.xnb</Output>
-      <Extra>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\Music.wma</Extra>
-      <Time>2010-03-04T17:41:30.5122893+02:00</Time>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\Music.xnb</Output>
+      <Extra>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\Music.wma</Extra>
+      <Time>2010-03-04T23:18:34.0864+02:00</Time>
     </Item>
     <Item>
       <Source>Sounds\PlayerFall.wma</Source>
@@ -35,8 +35,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
-      <Time>2010-03-04T17:41:30.5482893+02:00</Time>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2010-03-04T23:18:34.4044+02:00</Time>
     </Item>
     <Item>
       <Source>Sounds\PlayerJump.wma</Source>
@@ -44,8 +44,8 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
-      <Time>2010-03-04T17:41:30.5432893+02:00</Time>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2010-03-04T23:18:34.3994+02:00</Time>
     </Item>
     <Item>
       <Source>Sounds\PlayerKilled.wma</Source>
@@ -53,43 +53,43 @@
       <Importer>WmaImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
-      <Time>2010-03-04T17:41:30.5172893+02:00</Time>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2010-03-04T23:18:34.1734+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\SharedContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\SharedContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\SharedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\SharedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
         <Value>2009-05-28T01:16:14+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
         <Value>2009-05-28T01:16:16+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
         <Value>2009-05-28T01:16:26+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
         <Value>2009-05-28T01:16:12+03:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
         <Value>2009-05-28T01:16:06+03:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2010-01-26T20:00:06.4338788+02:00</Value>
+        <Value>2010-01-20T15:59:06.6514+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
