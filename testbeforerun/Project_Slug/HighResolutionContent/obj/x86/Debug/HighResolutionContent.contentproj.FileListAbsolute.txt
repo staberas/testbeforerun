@@ -1,1 +1,2 @@
 C:\Users\User\Documents\Visual Studio 2008\Projects\Poject_Slug\Project_Slug\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\HighResolutionContent\obj\x86\Debug\ResolveAssemblyReference.cache
