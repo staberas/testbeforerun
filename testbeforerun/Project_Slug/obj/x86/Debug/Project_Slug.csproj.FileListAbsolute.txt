@@ -108,3 +108,9 @@ C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\obj\x8
 C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\obj\x86\Debug\Project_Slug.exe
 C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\obj\x86\Debug\Project_Slug.pdb
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Backgrounds\back_a_1.xnb
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Backgrounds\back_a_2.xnb
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\background.xnb
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\cannon.xnb
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\cannonball.xnb
+C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\enemy.xnb

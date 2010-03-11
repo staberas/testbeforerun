@@ -108,6 +108,8 @@ namespace Project_Slug
         private bool isJumping;
         private bool wasJumping;
         private float jumpTime;
+        //firing weapon
+        private bool isfiring;
 
         private Rectangle localBounds;
         /// <summary>
@@ -236,6 +238,8 @@ namespace Project_Slug
                 keyboardState.IsKeyDown(Keys.Up) ||
                 keyboardState.IsKeyDown(Keys.W);
         }
+             
+
 
         /// <summary>
         /// Updates the player's velocity and position based on input, gravity, etc.
