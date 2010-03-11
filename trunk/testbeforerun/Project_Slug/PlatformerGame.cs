@@ -17,6 +17,14 @@ namespace Project_Slug
         private GraphicsDeviceManager graphics;
         private SpriteBatch spriteBatch;
 
+        //weapon-bullets load
+        Bullet bulet;
+        Texture2D backgroundTexture;
+        const int maxCannonBalls = 3;
+        Bullet[] cannonBalls;
+        KeyboardState previousKeyboardState = Keyboard.GetState();
+
+
         // Global content.
         private SpriteFont hudFont;
 
@@ -60,6 +68,7 @@ namespace Project_Slug
         /// LoadContent will be called once per game and is the place to load
         /// all of your content.
         /// </summary>
+
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
@@ -67,6 +76,17 @@ namespace Project_Slug
 
             // Load fonts
             hudFont = Content.Load<SpriteFont>("Fonts/Hud");
+
+            //WEAPONS-BULLETS
+            backgroundTexture = Content.Load<Texture2D>("Sprites\\background");
+            bulet = new Bullet(Content.Load<Texture2D>("Sprites\\cannon"));
+            //bulet.position = new Vector2(120, graphics.GraphicsDevice.Viewport.Height - 80);
+            cannonBalls = new Bullet[maxCannonBalls];
+            for (int i = 0; i < maxCannonBalls; i++)
+            {
+                cannonBalls[i] = new Bullet(Content.Load<Texture2D>(
+                    "Sprites\\cannonball"));
+            }
 
             // Load overlay textures
             winOverlay = Content.Load<Texture2D>("Overlays/you_win");
@@ -93,10 +113,19 @@ namespace Project_Slug
             base.Update(gameTime);
         }
 
+        //KEYBIND 2 STABERAS
+
         private void HandleInput()
         {
             KeyboardState keyboardState = Keyboard.GetState();
             GamePadState gamepadState = GamePad.GetState(PlayerIndex.One);
+            //keyboard binds edw lol
+            if (keyboardState.IsKeyDown(Keys.Space) &&
+                previousKeyboardState.IsKeyUp(Keys.Space))
+            {
+                FireCannonBall();
+            }
+        
 
             // Exit the game when back is pressed.
             if (gamepadState.Buttons.Back == ButtonState.Pressed)
@@ -105,6 +134,7 @@ namespace Project_Slug
             bool continuePressed =
                 keyboardState.IsKeyDown(Keys.Space) ||
                 gamepadState.IsButtonDown(ContinueButton);
+
 
             // Perform the appropriate action to advance the game and
             // to get the player back to playing.
@@ -240,5 +270,39 @@ namespace Project_Slug
             spriteBatch.DrawString(font, value, position + new Vector2(1.0f, 1.0f), Color.Black);
             spriteBatch.DrawString(font, value, position, color);
         }
+        //--------------------------------------
+        //
+        //Bullets
+        //
+        //--------------------------------------
+        public void UpdateCannonBalls()
+        {
+            foreach (Bullet ball in cannonBalls)
+            {
+                if (ball.alive)
+                {
+
+                    {
+                        ball.alive = false;
+                        continue;
+                    }
+                }
+            }
+        }
+
+        //fire cannonball
+        public void FireCannonBall()
+        {
+            foreach (Bullet ball in cannonBalls)
+            {
+                if (!ball.alive)
+                {
+                    ball.alive = true;
+                    return;
+                }
+            }
+        }
+    //123
+
     }
 }

@@ -5,3 +5,5 @@
 4/3/10 Megaloma ton piston wste na ginei sosth dokimi
 
 9/3/10 Added new level backgrounds (back_a_1 kai back_a_2)
+
+11/3/10 Added code for weapon 

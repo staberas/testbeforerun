@@ -343,6 +343,60 @@
       <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
       <Time>2010-03-04T23:18:15.3914+02:00</Time>
     </Item>
+    <Item>
+      <Source>Backgrounds\back_a_1.png</Source>
+      <Name>Backgrounds\back_a_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Backgrounds\back_a_1.xnb</Output>
+      <Time>2010-03-08T19:48:23.444+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\back_a_2.png</Source>
+      <Name>Backgrounds\back_a_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Backgrounds\back_a_2.xnb</Output>
+      <Time>2010-03-08T19:48:23.441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\background.tga</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2010-03-11T13:22:56.2932+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannon.tga</Source>
+      <Name>Sprites\cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\cannon.xnb</Output>
+      <Time>2010-03-11T13:22:56.3072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\cannonball.tga</Source>
+      <Name>Sprites\cannonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\cannonball.xnb</Output>
+      <Time>2010-03-11T13:22:56.3152+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy.tga</Source>
+      <Name>Sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\staberas\Documents\Visual Studio 2008\Projects\slug\Project_Slug\bin\x86\Debug\Content\Sprites\enemy.xnb</Output>
+      <Time>2010-03-11T13:22:56.2082+02:00</Time>
+    </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
       <TargetPlatform>Windows</TargetPlatform>
